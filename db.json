@@ -1,40 +1,746 @@
 {
-  "users": [
+  "reportIdLookUpData": [
     {
-      "id": 1,
-      "name": "Alice Johnson",
-      "email": "alice.johnson@example.com"
+      "reportid": "report001",
+      "ndl_name": "abmarketing",
+      "ndj_name": "abeast",
+      "fam_name": "abcorporate",
+      "cat_name": "abfurniture",
+      "buz_name": "abb2c"
     },
     {
-      "id": 2,
-      "name": "Bob Smith",
-      "email": "bob.smith@example.com"
+      "reportid": "report002",
+      "ndl_name": "abfinance",
+      "ndj_name": "abeast",
+      "fam_name": "abretail",
+      "cat_name": "abfurniture",
+      "buz_name": "abb2b"
+    },
+    {
+      "reportid": "report003",
+      "ndl_name": "abfinance",
+      "ndj_name": "abnorth",
+      "fam_name": "abcorporate",
+      "cat_name": "abelectronics",
+      "buz_name": "abb2b"
+    },
+    {
+      "reportid": "report004",
+      "ndl_name": "abmarketing",
+      "ndj_name": "absouth",
+      "fam_name": "abretail",
+      "cat_name": "abelectronics",
+      "buz_name": "abb2b"
+    },
+    {
+      "reportid": "report005",
+      "ndl_name": "abmarketing",
+      "ndj_name": "abnorth",
+      "fam_name": "abretail",
+      "cat_name": "abfurniture",
+      "buz_name": "abb2c"
+    },
+    {
+      "reportid": "report006",
+      "ndl_name": "abfinance",
+      "ndj_name": "abeast",
+      "fam_name": "abcorporate",
+      "cat_name": "abelectronics",
+      "buz_name": "abb2c"
+    },
+    {
+      "reportid": "report007",
+      "ndl_name": "absales",
+      "ndj_name": "abeast",
+      "fam_name": "abretail",
+      "cat_name": "abelectronics",
+      "buz_name": "abb2b"
+    },
+    {
+      "reportid": "report008",
+      "ndl_name": "abmarketing",
+      "ndj_name": "absouth",
+      "fam_name": "abcorporate",
+      "cat_name": "abelectronics",
+      "buz_name": "abb2b"
+    },
+    {
+      "reportid": "report009",
+      "ndl_name": "absales",
+      "ndj_name": "absouth",
+      "fam_name": "abcorporate",
+      "cat_name": "abelectronics",
+      "buz_name": "abb2c"
+    },
+    {
+      "reportid": "report010",
+      "ndl_name": "abfinance",
+      "ndj_name": "abnorth",
+      "fam_name": "abretail",
+      "cat_name": "abfurniture",
+      "buz_name": "abb2b"
     }
   ],
-  "posts": [
+  "rightIndexes": [
     {
-      "id": 1,
-      "userId": 1,
-      "title": "First Post",
-      "body": "This is the first post by Alice."
+      "reportId": "report001",
+      "rightindexes": [
+        {
+          "indexname": "isnkvd",
+          "displayname": "Display Ufrk"
+        }
+      ]
     },
     {
-      "id": 2,
-      "userId": 2,
-      "title": "Hello World",
-      "body": "Bob's introduction post."
+      "reportId": "report002",
+      "rightindexes": [
+        {
+          "indexname": "cjghqs",
+          "displayname": "Display Ajzp"
+        },
+        {
+          "indexname": "oyqmwm",
+          "displayname": "Display Tnxx"
+        },
+        {
+          "indexname": "vuasxy",
+          "displayname": "Display Ngxb"
+        }
+      ]
+    },
+    {
+      "reportId": "report003",
+      "rightindexes": [
+        {
+          "indexname": "thicax",
+          "displayname": "Display Xqtv"
+        },
+        {
+          "indexname": "flxlkq",
+          "displayname": "Display Ixnk"
+        },
+        {
+          "indexname": "umqsee",
+          "displayname": "Display Mvjk"
+        }
+      ]
+    },
+    {
+      "reportId": "report004",
+      "rightindexes": [
+        {
+          "indexname": "mhozhk",
+          "displayname": "Display Tdxv"
+        },
+        {
+          "indexname": "exyitn",
+          "displayname": "Display Fhrz"
+        },
+        {
+          "indexname": "ejogiw",
+          "displayname": "Display Vvdi"
+        },
+        {
+          "indexname": "snhlva",
+          "displayname": "Display Zjax"
+        },
+        {
+          "indexname": "mwmgqw",
+          "displayname": "Display Osxe"
+        },
+        {
+          "indexname": "yxsann",
+          "displayname": "Display Tjss"
+        },
+        {
+          "indexname": "azbcei",
+          "displayname": "Display Ahoa"
+        },
+        {
+          "indexname": "xxnbct",
+          "displayname": "Display Ziuu"
+        }
+      ]
+    },
+    {
+      "reportId": "report005",
+      "rightindexes": [
+        {
+          "indexname": "iipizd",
+          "displayname": "Display Acps"
+        },
+        {
+          "indexname": "zxiyng",
+          "displayname": "Display Kxeh"
+        }
+      ]
+    },
+    {
+      "reportId": "report006",
+      "rightindexes": [
+        {
+          "indexname": "bfqocf",
+          "displayname": "Display Kpdz"
+        },
+        {
+          "indexname": "fvlllw",
+          "displayname": "Display Hmoy"
+        },
+        {
+          "indexname": "aapfer",
+          "displayname": "Display Amwy"
+        },
+        {
+          "indexname": "gcyswa",
+          "displayname": "Display Mwjn"
+        }
+      ]
+    },
+    {
+      "reportId": "report007",
+      "rightindexes": [
+        {
+          "indexname": "fyzmes",
+          "displayname": "Display Iaje"
+        },
+        {
+          "indexname": "cadoea",
+          "displayname": "Display Flje"
+        },
+        {
+          "indexname": "npmljd",
+          "displayname": "Display Xooy"
+        }
+      ]
+    },
+    {
+      "reportId": "report008",
+      "rightindexes": [
+        {
+          "indexname": "neggwo",
+          "displayname": "Display Nbta"
+        },
+        {
+          "indexname": "bnwbsc",
+          "displayname": "Display Imlk"
+        },
+        {
+          "indexname": "wmvxra",
+          "displayname": "Display Yizc"
+        }
+      ]
+    },
+    {
+      "reportId": "report009",
+      "rightindexes": [
+        {
+          "indexname": "xkxxra",
+          "displayname": "Display Cuor"
+        }
+      ]
+    },
+    {
+      "reportId": "report010",
+      "rightindexes": [
+        {
+          "indexname": "hrpesg",
+          "displayname": "Display Mzzi"
+        },
+        {
+          "indexname": "ombmue",
+          "displayname": "Display Djyb"
+        },
+        {
+          "indexname": "wzxvbr",
+          "displayname": "Display Cvop"
+        },
+        {
+          "indexname": "bcgisg",
+          "displayname": "Display Ohaa"
+        }
+      ]
     }
   ],
-  "comments": [
+  "rightIndexesLookUpData": [
     {
-      "id": 1,
-      "postId": 1,
-      "body": "Great post, Alice!"
+      "reporid": "report001",
+      "isnkvd": [
+        "keccf",
+        "nlmfs",
+        "mebjq",
+        "pvdpa",
+        "bwirx",
+        "jxjjg",
+        "footr",
+        "tryok",
+        "lgrrv",
+        "hdmse"
+      ]
     },
     {
-      "id": 2,
-      "postId": 2,
-      "body": "Welcome, Bob!"
+      "reporid": "report002",
+      "cjghqs": [
+        "gzreq",
+        "froqs",
+        "vylpy",
+        "iwcpk",
+        "zgzpm",
+        "nudfm",
+        "nqroi",
+        "zwmxy",
+        "osxfo",
+        "lnbhl"
+      ]
+    },
+    {
+      "reporid": "report002",
+      "oyqmwm": [
+        "cqvif",
+        "zyamz",
+        "bjclc",
+        "auiwh",
+        "fcgbl",
+        "rfckm",
+        "uvdid",
+        "oqpmh",
+        "fcozo",
+        "koddl"
+      ]
+    },
+    {
+      "reporid": "report002",
+      "vuasxy": [
+        "sahjz",
+        "ciauo",
+        "xxnkm",
+        "zqfhs",
+        "zfxes",
+        "ecnou",
+        "hyagq",
+        "ekoxh",
+        "ehysz",
+        "mhmvg"
+      ]
+    },
+    {
+      "reporid": "report003",
+      "thicax": [
+        "lxvtn",
+        "dbten",
+        "rlaoi",
+        "fcyyf",
+        "xarcm",
+        "mpxhh",
+        "atnns",
+        "qmizd",
+        "twcsu",
+        "uffes"
+      ]
+    },
+    {
+      "reporid": "report003",
+      "flxlkq": [
+        "oxfkt",
+        "azyly",
+        "dvyzx",
+        "xbtdk",
+        "vtkto",
+        "dgrtb",
+        "mdpti",
+        "cbkyq",
+        "wusjo",
+        "lsxpl"
+      ]
+    },
+    {
+      "reporid": "report003",
+      "umqsee": [
+        "vubyv",
+        "ivgnf",
+        "ikpcw",
+        "enber",
+        "akiks",
+        "ycldm",
+        "smnnn",
+        "akurq",
+        "ivobl",
+        "ykcrk"
+      ]
+    },
+    {
+      "reporid": "report004",
+      "mhozhk": [
+        "coqph",
+        "fnxcg",
+        "hlfcx",
+        "btxvg",
+        "rqmxb",
+        "kjmes",
+        "fpuhx",
+        "eprjj",
+        "qbjvx",
+        "bgajn"
+      ]
+    },
+    {
+      "reporid": "report004",
+      "exyitn": [
+        "sliwi",
+        "csmyt",
+        "wdgtw",
+        "prlcw",
+        "gcutb",
+        "pstfk",
+        "iwhza",
+        "akrvk",
+        "wlwzg",
+        "hgwkw"
+      ]
+    },
+    {
+      "reporid": "report004",
+      "ejogiw": [
+        "lfcea",
+        "qfaia",
+        "nwyfo",
+        "hzktd",
+        "qhsts",
+        "mcpon",
+        "cytdg",
+        "omktk",
+        "bocen",
+        "dwtrx"
+      ]
+    },
+    {
+      "reporid": "report004",
+      "snhlva": [
+        "btzue",
+        "gpcsm",
+        "wqeur",
+        "orznu",
+        "xoqxz",
+        "aofzg",
+        "gqftk",
+        "dmjbk",
+        "vcqld",
+        "bpgut"
+      ]
+    },
+    {
+      "reporid": "report004",
+      "mwmgqw": [
+        "eswvi",
+        "jafkt",
+        "urtlf",
+        "lgvcm",
+        "dcogd",
+        "zteqf",
+        "ndhdw",
+        "avoea",
+        "rowhu",
+        "ewfen"
+      ]
+    },
+    {
+      "reporid": "report004",
+      "yxsann": [
+        "qwnmv",
+        "aomrf",
+        "xdcnk",
+        "jqrab",
+        "pkltn",
+        "ixlob",
+        "iqyyt",
+        "fxqqk",
+        "ntugp",
+        "gjxey"
+      ]
+    },
+    {
+      "reporid": "report004",
+      "azbcei": [
+        "mmuzv",
+        "kfhyw",
+        "zrvji",
+        "aqmrw",
+        "sfxnu",
+        "kqlgn",
+        "gcjep",
+        "qaqtu",
+        "vetqk",
+        "vfbid"
+      ]
+    },
+    {
+      "reporid": "report004",
+      "xxnbct": [
+        "gtkwp",
+        "ihulk",
+        "idiib",
+        "yakaz",
+        "vmlsq",
+        "uohht",
+        "kdjtn",
+        "nixbo",
+        "azovq",
+        "rhtmb"
+      ]
+    },
+    {
+      "reporid": "report005",
+      "iipizd": [
+        "idkww",
+        "sgexx",
+        "fzaam",
+        "kpqun",
+        "cbxqw",
+        "zukxr",
+        "eaapa",
+        "qmwgc",
+        "qjkqj",
+        "brhxd"
+      ]
+    },
+    {
+      "reporid": "report005",
+      "zxiyng": [
+        "fwsor",
+        "zxygm",
+        "fnlfs",
+        "xcvwe",
+        "ienao",
+        "ixabs",
+        "rscwg",
+        "syqil",
+        "oxsyc",
+        "hbubd"
+      ]
+    },
+    {
+      "reporid": "report006",
+      "bfqocf": [
+        "ugusy",
+        "konkz",
+        "fwhfv",
+        "khzck",
+        "wkxrb",
+        "gchae",
+        "cbzzp",
+        "smykj",
+        "iadnr",
+        "rjeaa"
+      ]
+    },
+    {
+      "reporid": "report006",
+      "fvlllw": [
+        "vpqzb",
+        "surdy",
+        "wpeso",
+        "knobr",
+        "phpfi",
+        "gnysk",
+        "jgowi",
+        "uadxi",
+        "ctuuj",
+        "zcovq"
+      ]
+    },
+    {
+      "reporid": "report006",
+      "aapfer": [
+        "ikmct",
+        "hbhpg",
+        "rjeyp",
+        "ccyme",
+        "eciru",
+        "jcdka",
+        "mojwr",
+        "yorik",
+        "cvgns",
+        "qdydi"
+      ]
+    },
+    {
+      "reporid": "report006",
+      "gcyswa": [
+        "wikmm",
+        "tuarc",
+        "gwqvq",
+        "qxpcs",
+        "kciyn",
+        "fqons",
+        "dmabx",
+        "ispzu",
+        "hcxgh",
+        "vovis"
+      ]
+    },
+    {
+      "reporid": "report007",
+      "fyzmes": [
+        "bqypy",
+        "hqvtk",
+        "yxeax",
+        "cidkg",
+        "riiop",
+        "dbnxc",
+        "wxmzi",
+        "bdeyr",
+        "mkfmn",
+        "zcaif"
+      ]
+    },
+    {
+      "reporid": "report007",
+      "cadoea": [
+        "ovrty",
+        "xiwnm",
+        "yxdsz",
+        "dxydh",
+        "ahqvp",
+        "jmkqu",
+        "txcub",
+        "hhbke",
+        "wbtmy",
+        "reocj"
+      ]
+    },
+    {
+      "reporid": "report007",
+      "npmljd": [
+        "tyiya",
+        "mddts",
+        "gqgtq",
+        "kzsao",
+        "urdov",
+        "dvuyl",
+        "hotag",
+        "anoop",
+        "ufiss",
+        "qonoi"
+      ]
+    },
+    {
+      "reporid": "report008",
+      "neggwo": [
+        "yqzmg",
+        "fsfav",
+        "ohbrs",
+        "bdeiu",
+        "gfctp",
+        "bbmmg",
+        "ftwws",
+        "fonch",
+        "xpnmk",
+        "mgrls"
+      ]
+    },
+    {
+      "reporid": "report008",
+      "bnwbsc": [
+        "urioi",
+        "tdxuo",
+        "lotyw",
+        "vkkzr",
+        "bumhl",
+        "nldqw",
+        "jsslx",
+        "ukonc",
+        "xogdy",
+        "xbspp"
+      ]
+    },
+    {
+      "reporid": "report008",
+      "wmvxra": [
+        "mbrgd",
+        "twkcu",
+        "wulch",
+        "scsvx",
+        "vebon",
+        "zzoub",
+        "miymp",
+        "nxzat",
+        "jhlrw",
+        "bzolj"
+      ]
+    },
+    {
+      "reporid": "report009",
+      "xkxxra": [
+        "irxiz",
+        "cxrec",
+        "evmcn",
+        "ridka",
+        "ntndg",
+        "mrwqh",
+        "gpccm",
+        "votfa",
+        "tjhzn",
+        "mgmvx"
+      ]
+    },
+    {
+      "reporid": "report010",
+      "hrpesg": [
+        "noyoa",
+        "yeszh",
+        "wmdfs",
+        "eshtp",
+        "ttrbe",
+        "qhnoc",
+        "tdztm",
+        "uiowx",
+        "qpapa",
+        "zkopa"
+      ]
+    },
+    {
+      "reporid": "report010",
+      "ombmue": [
+        "ufmea",
+        "czqrh",
+        "amuvl",
+        "gvija",
+        "auncs",
+        "fvmit",
+        "cmuvx",
+        "yocvj",
+        "qyujs",
+        "yelhc"
+      ]
+    },
+    {
+      "reporid": "report010",
+      "wzxvbr": [
+        "wosom",
+        "tyaal",
+        "uumrt",
+        "orxgz",
+        "fqhwj",
+        "abtsa",
+        "gcupa",
+        "dxjbw",
+        "tjevs",
+        "jhmmi"
+      ]
+    },
+    {
+      "reporid": "report010",
+      "bcgisg": [
+        "toaoc",
+        "bjcgb",
+        "dzowj",
+        "vnupy",
+        "qkdyz",
+        "zstpy",
+        "tpayk",
+        "ixktf",
+        "yroba",
+        "dohqn"
+      ]
     }
   ]
 }
