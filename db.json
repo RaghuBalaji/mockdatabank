@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "First Post",
+      "body": "This is the first post by Alice."
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Hello World",
+      "body": "Bob's introduction post."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "body": "Great post, Alice!"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "body": "Welcome, Bob!"
+    }
+  ]
+}
