@@ -58,135 +58,100 @@
     }
   ],
   "rightIndexes": [
-    {
-      "reportId": "report001",
-      "rightindexes": [
-        {
-          "indexname": "isnkvd",
-          "displayname": "Display Ufrk"
-        }
-      ]
-    },
-    {
-      "reportId": "report002",
-      "rightindexes": [
-        {
-          "indexname": "cjghqs",
-          "displayname": "Display Ajzp"
-        },
-        {
-          "indexname": "oyqmwm",
-          "displayname": "Display Tnxx"
-        },
-        {
-          "indexname": "vuasxy",
-          "displayname": "Display Ngxb"
-        }
-      ]
-    },
-    {
-      "reportId": "report003",
-      "rightindexes": [
-        {
-          "indexname": "thicax",
-          "displayname": "Display Xqtv"
-        },
-        {
-          "indexname": "flxlkq",
-          "displayname": "Display Ixnk"
-        },
-        {
-          "indexname": "umqsee",
-          "displayname": "Display Mvjk"
-        }
-      ]
-    },
-    {
-      "reportId": "report004",
-      "rightindexes": [
-        {
-          "indexname": "mhozhk",
-          "displayname": "Display Tdxv"
-        },
-        {
-          "indexname": "exyitn",
-          "displayname": "Display Fhrz"
-        },
-        {
-          "indexname": "ejogiw",
-          "displayname": "Display Vvdi"
-        },
-        {
-          "indexname": "snhlva",
-          "displayname": "Display Zjax"
-        },
-        {
-          "indexname": "mwmgqw",
-          "displayname": "Display Osxe"
-        },
-        {
-          "indexname": "yxsann",
-          "displayname": "Display Tjss"
-        },
-        {
-          "indexname": "azbcei",
-          "displayname": "Display Ahoa"
-        },
-        {
-          "indexname": "xxnbct",
-          "displayname": "Display Ziuu"
-        }
-      ]
-    },
-    {
-      "reportId": "report005",
-      "rightindexes": [
-        {
-          "indexname": "iipizd",
-          "displayname": "Display Acps"
-        },
-        {
-          "indexname": "zxiyng",
-          "displayname": "Display Kxeh"
-        }
-      ]
-    },
-    {
-      "reportId": "report006",
-      "rightindexes": [
-        {
-          "indexname": "bfqocf",
-          "displayname": "Display Kpdz"
-        },
-        {
-          "indexname": "fvlllw",
-          "displayname": "Display Hmoy"
-        },
-        {
-          "indexname": "aapfer",
-          "displayname": "Display Amwy"
-        },
-        {
-          "indexname": "gcyswa",
-          "displayname": "Display Mwjn"
-        }
-      ]
-    },
-    {
-      "reportId": "report007",
-      "rightindexes": [
-        {
-          "indexname": "fyzmes",
-          "displayname": "Display Iaje"
-        },
-        {
-          "indexname": "cadoea",
-          "displayname": "Display Flje"
-        },
-        {
-          "indexname": "npmljd",
-          "displayname": "Display Xooy"
-        }
-      ]
-    }
-  ]}
+  {
+    "reportid": "report001",
+    "isnkvd": "Display Ufrk"
+  },
+  {
+    "reportid": "report002",
+    "cjghqs": "Display Ajzp"
+  },
+  {
+    "reportid": "report002",
+    "oyqmwm": "Display Tnxx"
+  },
+  {
+    "reportid": "report002",
+    "vuasxy": "Display Ngxb"
+  },
+  {
+    "reportid": "report003",
+    "thicax": "Display Xqtv"
+  },
+  {
+    "reportid": "report003",
+    "flxlkq": "Display Ixnk"
+  },
+  {
+    "reportid": "report003",
+    "umqsee": "Display Mvjk"
+  },
+  {
+    "reportid": "report004",
+    "mhozhk": "Display Tdxv"
+  },
+  {
+    "reportid": "report004",
+    "exyitn": "Display Fhrz"
+  },
+  {
+    "reportid": "report004",
+    "ejogiw": "Display Vvdi"
+  },
+  {
+    "reportid": "report004",
+    "snhlva": "Display Zjax"
+  },
+  {
+    "reportid": "report004",
+    "mwmgqw": "Display Osxe"
+  },
+  {
+    "reportid": "report004",
+    "yxsann": "Display Tjss"
+  },
+  {
+    "reportid": "report004",
+    "azbcei": "Display Ahoa"
+  },
+  {
+    "reportid": "report004",
+    "xxnbct": "Display Ziuu"
+  },
+  {
+    "reportid": "report005",
+    "iipizd": "Display Acps"
+  },
+  {
+    "reportid": "report005",
+    "zxiyng": "Display Kxeh"
+  },
+  {
+    "reportid": "report006",
+    "bfqocf": "Display Kpdz"
+  },
+  {
+    "reportid": "report006",
+    "fvlllw": "Display Hmoy"
+  },
+  {
+    "reportid": "report006",
+    "aapfer": "Display Amwy"
+  },
+  {
+    "reportid": "report006",
+    "gcyswa": "Display Mwjn"
+  },
+  {
+    "reportid": "report007",
+    "fyzmes": "Display Iaje"
+  },
+  {
+    "reportid": "report007",
+    "cadoea": "Display Flje"
+  },
+  {
+    "reportid": "report007",
+    "npmljd": "Display Xooy"
+  }
+]}
